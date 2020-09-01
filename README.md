@@ -1,1 +1,1 @@
-# Paktikum-PBO
+# Praktikum-PBO
